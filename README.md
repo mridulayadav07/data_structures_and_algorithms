@@ -45,8 +45,6 @@
   <li>Two Pointer</li>
   <li>Sliding Window</li>
   <li>Binary Search</li>
-  <li>DFS / BFS</li>
-  <li>Greedy</li>
 </ul>
 
 ---
