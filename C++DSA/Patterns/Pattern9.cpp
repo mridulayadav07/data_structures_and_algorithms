@@ -1,0 +1,1 @@
+//combine pattern 7 and 8

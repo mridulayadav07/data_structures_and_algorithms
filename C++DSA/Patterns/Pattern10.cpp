@@ -1,0 +1,1 @@
+//combine pattern 2 nd 5 but think about the only one biggest line
